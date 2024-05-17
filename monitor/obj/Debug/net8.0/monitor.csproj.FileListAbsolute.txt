@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\bin\Debug\net8.0\monitor.exe
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\bin\Debug\net8.0\monitor.deps.json
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\bin\Debug\net8.0\monitor.runtimeconfig.json
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\bin\Debug\net8.0\monitor.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\bin\Debug\net8.0\monitor.pdb
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\monitor.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\monitor.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\monitor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\monitor.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\refint\monitor.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\monitor.pdb
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\monitor.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\monitor\obj\Debug\net8.0\ref\monitor.dll
