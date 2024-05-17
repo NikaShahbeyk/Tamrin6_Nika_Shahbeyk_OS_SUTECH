@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\bin\Debug\net8.0\autoresetevent.exe
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\bin\Debug\net8.0\autoresetevent.deps.json
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\bin\Debug\net8.0\autoresetevent.runtimeconfig.json
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\bin\Debug\net8.0\autoresetevent.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\bin\Debug\net8.0\autoresetevent.pdb
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\autoresetevent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\autoresetevent.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\autoresetevent.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\autoresetevent.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\autoresetevent.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\refint\autoresetevent.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\autoresetevent.pdb
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\autoresetevent.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\autoresetevent\obj\Debug\net8.0\ref\autoresetevent.dll
