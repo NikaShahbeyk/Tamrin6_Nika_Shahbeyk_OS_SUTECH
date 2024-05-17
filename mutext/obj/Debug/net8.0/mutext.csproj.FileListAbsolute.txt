@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\bin\Debug\net8.0\mutext.exe
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\bin\Debug\net8.0\mutext.deps.json
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\bin\Debug\net8.0\mutext.runtimeconfig.json
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\bin\Debug\net8.0\mutext.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\bin\Debug\net8.0\mutext.pdb
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\mutext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\mutext.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\mutext.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\mutext.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\mutext.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\refint\mutext.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\mutext.pdb
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\mutext.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\mutext\obj\Debug\net8.0\ref\mutext.dll
