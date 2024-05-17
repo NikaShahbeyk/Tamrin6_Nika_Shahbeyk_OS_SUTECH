@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\bin\Debug\net8.0\semaphore.exe
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\bin\Debug\net8.0\semaphore.deps.json
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\bin\Debug\net8.0\semaphore.runtimeconfig.json
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\bin\Debug\net8.0\semaphore.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\bin\Debug\net8.0\semaphore.pdb
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\semaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\semaphore.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\semaphore.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\semaphore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\semaphore.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\refint\semaphore.dll
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\semaphore.pdb
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\semaphore.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Tamrin6_OS\semaphore\obj\Debug\net8.0\ref\semaphore.dll
